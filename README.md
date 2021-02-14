@@ -10,4 +10,4 @@ Countries I want to visit:
 
 Projects that I enjoy:
 - Giving users more control of their systems like [KCS](https://github.com/ahoneybun/keyboard-color-switcher)
-- Writing documentation like [System76 Docs](https://github.com/system76/docs/)
+- Writing documentation like [System76 Docs](https://github.com/system76/docs/) and [Arch LUKS Install](https://github.com/ahoneybun/Arch-LUKS-systemd-boot-install).
