@@ -8,6 +8,7 @@ Countries I want to visit:
 - 🇮🇪 Ireland
 - 🇸🇪 Sweden
 - 🇮🇸 Iceland
+- 🇳🇴 Norway
 
 Projects that I enjoy:
 - Giving users more control of their systems like [KCS](https://github.com/ahoneybun/keyboard-color-switcher)
