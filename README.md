@@ -1,4 +1,4 @@
-## I'm Aaron! (ahoneybun on some social accounts) and I use Pop!\_OS and Kubuntu
+## I'm Aaron! (ahoneybun on some social accounts)
 
 Countries I've been to:
 - 🇯🇵 Japan
