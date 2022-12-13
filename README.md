@@ -1,4 +1,4 @@
-## I'm Aaron! (ahoneybun on some social accounts)
+## I'm Aaron! (ahoneybun/fishfulpenguin on some social accounts)
 
 Countries I've been to:
 - 🇯🇵 Japan
