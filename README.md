@@ -5,10 +5,12 @@ Countries I've been to:
 - 🇪🇸 Spain
 
 Countries I want to visit:
-- 🇮🇪 Ireland
 - 🇸🇪 Sweden
 - 🇮🇸 Iceland
 - 🇳🇴 Norway
+
+Countries planned for 2023:
+- 🇮🇪 Ireland
 
 Projects that I enjoy:
 - Giving users more control of their systems like [Keyboard Color Switcher](https://github.com/ahoneybun/keyboard-color-switcher)
