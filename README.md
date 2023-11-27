@@ -6,7 +6,7 @@ Projects that I enjoy:
 - Writing [cool scripts](https://github.com/ahoneybun/personal-scripts) that make my life easier.
 
 Cool things that I do:
-- System76 Keyboard Configurator AUR:
+- System76 Keyboard Configurator the Arch Linux AUR:
   - https://aur.archlinux.org/packages/system76-keyboard-configurator
   - https://aur.archlinux.org/packages/system76-keyboard-configurator-git
 - cosmic-edit for NixOS:
