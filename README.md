@@ -9,8 +9,9 @@ Cool things that I do:
 - System76 Keyboard Configurator the Arch Linux AUR:
   - https://aur.archlinux.org/packages/system76-keyboard-configurator
   - https://aur.archlinux.org/packages/system76-keyboard-configurator-git
-- cosmic-edit for NixOS:
-  - https://github.com/NixOS/nixpkgs/blob/nixos-unstable/pkgs/applications/editors/cosmic-edit/default.nix#L70
+-  nixpkgs for NixOS:
+  - [cosmic-edit](https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-edit/package.nix)
+  - [cosmic-term](https://github.com/NixOS/nixpkgs/pull/276959)
 
 Countries I've been to:
 - 🇧🇪 Belgium
