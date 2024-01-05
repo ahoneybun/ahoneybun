@@ -6,10 +6,10 @@ https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-term/package
 - Writing [cool scripts](https://github.com/ahoneybun/personal-scripts) that make my life easier.
 
 ## Cool things that I do:
-System76 Keyboard Configurator the Arch Linux AUR:
+- System76 Keyboard Configurator the Arch Linux AUR:
   - https://aur.archlinux.org/packages/system76-keyboard-configurator
   - https://aur.archlinux.org/packages/system76-keyboard-configurator-git
-nixpkgs for NixOS:
+- nixpkgs for NixOS:
   - https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-edit/package.nix
   - https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-term/package.nix
 
