@@ -10,8 +10,8 @@ Cool things that I do:
   - https://aur.archlinux.org/packages/system76-keyboard-configurator
   - https://aur.archlinux.org/packages/system76-keyboard-configurator-git
 -  nixpkgs for NixOS:
-  - [cosmic-edit](https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-edit/package.nix)
-  - [cosmic-term](https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-term/package.nix)
+  - https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-edit/package.nix
+  - https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-term/package.nix
 
 Countries I've been to:
 - 🇧🇪 Belgium
