@@ -1,4 +1,4 @@
-https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-term/package.nix I'm Aaron! (ahoneybun/fishfulpenguin on some social accounts)
+# I'm Aaron! (ahoneybun/fishfulpenguin on some social accounts)
 
 ## Projects that I enjoy:
 - Giving users more control of their systems like [Keyboard Color Switcher](https://github.com/ahoneybun/keyboard-color-switcher)
@@ -13,13 +13,13 @@ https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-term/package
   - https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-edit/package.nix
   - https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-term/package.nix
 
-Countries I've been to:
-- 🇧🇪 Belgium
-- 🇯🇵 Japan
-- 🇪🇸 Spain
-- 🇮🇪 Ireland
+## Countries I've been to:
+- 🇧🇪 Belgium (1x)
+- 🇯🇵 Japan (2x)
+- 🇪🇸 Spain (1x)
+- 🇮🇪 Ireland (1x)
 
-Countries I want to visit:
+## Countries I want to visit:
 - 🇸🇪 Sweden
-- 🇮🇸 Iceland
+- 🇮🇸 Iceland (been to on a layover so not a real visit 😉)
 - 🇳🇴 Norway
