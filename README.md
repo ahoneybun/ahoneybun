@@ -1,4 +1,4 @@
-## I'm Aaron! (ahoneybun/fishfulpenguin on some social accounts)
+https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-term/package.nix I'm Aaron! (ahoneybun/fishfulpenguin on some social accounts)
 
 Projects that I enjoy:
 - Giving users more control of their systems like [Keyboard Color Switcher](https://github.com/ahoneybun/keyboard-color-switcher)
@@ -11,7 +11,7 @@ Cool things that I do:
   - https://aur.archlinux.org/packages/system76-keyboard-configurator-git
 -  nixpkgs for NixOS:
   - [cosmic-edit](https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-edit/package.nix)
-  - [cosmic-term](https://github.com/NixOS/nixpkgs/pull/276959)
+  - [cosmic-term](https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-term/package.nix)
 
 Countries I've been to:
 - 🇧🇪 Belgium
