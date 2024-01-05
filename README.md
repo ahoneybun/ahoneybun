@@ -10,8 +10,9 @@
   - https://aur.archlinux.org/packages/system76-keyboard-configurator
   - https://aur.archlinux.org/packages/system76-keyboard-configurator-git
 - nixpkgs for NixOS:
-  - https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-edit/package.nix
-  - https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-term/package.nix
+  - [cosmic-edit](https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-edit/package.nix)
+  - [cosmic-term](https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-term/package.nix)
+  - [cosmic-files](https://github.com/NixOS/nixpkgs/pull/278745)
 
 ## Countries I've been to:
 - 🇧🇪 Belgium (1x)
