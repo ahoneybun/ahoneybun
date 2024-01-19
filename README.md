@@ -12,7 +12,7 @@
 - NixOS nixpkgs :
   - [cosmic-edit](https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-edit/package.nix)
   - [cosmic-term](https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-term/package.nix)
-  - [cosmic-files](https://github.com/NixOS/nixpkgs/pull/278745)
+  - [cosmic-files](https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-files/package.nix)
 
 ## Countries I've been to:
 - 🇧🇪 Belgium (1x)
