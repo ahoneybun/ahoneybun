@@ -6,9 +6,13 @@
 - Writing [cool scripts](https://github.com/ahoneybun/personal-scripts) that make my life easier.
 
 ## Cool things that I do:
+
+Packaging of software for a few distros:
+
 - Arch Linux AUR:
   - [system76-keyboard-configurator](https://aur.archlinux.org/packages/system76-keyboard-configurator)
   - [system76-keyboard-configurator-git](https://aur.archlinux.org/packages/system76-keyboard-configurator-git)
+
 - NixOS nixpkgs :
   - [cosmic-edit](https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-edit/package.nix)
   - [cosmic-term](https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-term/package.nix)
