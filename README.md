@@ -7,7 +7,7 @@
 
 ## Cool things that I do:
 
-Packaging of software for a few distros:
+Maintainer/Co-Maintainer of software for a few distros:
 
 - Arch Linux AUR:
   - [system76-keyboard-configurator](https://aur.archlinux.org/packages/system76-keyboard-configurator)
@@ -17,6 +17,7 @@ Packaging of software for a few distros:
   - [cosmic-edit](https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-edit/package.nix)
   - [cosmic-term](https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-term/package.nix)
   - [cosmic-files](https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-files/package.nix)
+  - [cosmic-settings](https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/co/cosmic-settings/package.nix)
 
 ## Countries I've been to:
 - 🇧🇪 Belgium (1x)
