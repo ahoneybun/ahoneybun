@@ -27,6 +27,7 @@ Maintainer/Co-Maintainer of software for a few distros:
 - 🇮🇪 Ireland (1x)
 
 ## Countries I want to visit:
+- 🇬🇷 Greece
 - 🇸🇪 Sweden
 - 🇮🇸 Iceland (been to on a layover so not a real visit 😉)
 - 🇳🇴 Norway
