@@ -7,6 +7,8 @@
 
 ## Cool things that I do:
 
+Co-dev of [Stellarshot](https://github.com/cosmic-utils/Stellarshot)
+
 Maintainer/Co-Maintainer of software for a few distros:
 
 - Arch Linux AUR:
